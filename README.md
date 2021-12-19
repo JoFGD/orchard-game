@@ -7,5 +7,7 @@ chosen a plot from those available in the opening screen.
 
 watering_can - a script which serves as the server-side part of a functioning watering can which can be used to water trees.
 
+fruit_drop - a script which produces fruit from the trees in the player's plots. Each fruit starts as a flower and becomes a fully grown fruit.
+
 
 
