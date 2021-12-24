@@ -9,5 +9,7 @@ watering_can - a script which serves as the server-side part of a functioning wa
 
 fruit_drop - a script which produces fruit from the trees in the player's plots. Each fruit starts as a flower and becomes a fully grown fruit.
 
+emitter - a script which acts as a module which can be required and used by server scripts to create a new emitter.
+
 
 
